@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Assignment_2/CSE_Movie_App-master/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Assignment_2/CSE_Movie_App-master/app/src/main/res/layout/activity_details.xml" value="0.17" />
+        <entry key="..\:/Assignment_2/CSE_Movie_App-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Assignment_2/CSE_Movie_App-master/app/src/main/res/layout/details_movie.xml" value="0.1625" />
+        <entry key="..\:/Assignment_2/CSE_Movie_App-master/app/src/main/res/layout/list_item.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/circle_back.xml" value="0.303125" />
         <entry key="app/src/main/res/layout/activity_details.xml" value="0.27395833333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />

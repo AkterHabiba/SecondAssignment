@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
-    
+
     class MyAdapter extends RecyclerView.Adapter<MovieViewHolder> {
 
         @NonNull
